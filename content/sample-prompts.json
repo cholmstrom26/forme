@@ -1,0 +1,52 @@
+[
+  {
+    "prompt_id": "breath_001",
+    "title": "4-7-8 Breathing Reset",
+    "content": "Take a moment to reset your nervous system. Inhale for 4 counts, hold for 7, exhale for 8. Repeat 3-4 times. This activates your parasympathetic nervous system and helps reduce cortisol.",
+    "category": "Breathwork",
+    "duration_minutes": 3,
+    "tone": "Calming",
+    "applies_to_goals": ["Stress", "Focus"],
+    "time_of_day_suitability": ["Morning", "Midday", "Afternoon", "Evening"]
+  },
+  {
+    "prompt_id": "stretch_001", 
+    "title": "Neck and Shoulder Release",
+    "content": "Sitting or standing, slowly roll your shoulders back 5 times, then forward 5 times. Gently tilt your head to each side, holding for 10 seconds. Finish with gentle neck circles.",
+    "category": "Micro-stretching",
+    "duration_minutes": 2,
+    "tone": "Gentle",
+    "applies_to_goals": ["Body", "Stress"],
+    "time_of_day_suitability": ["Morning", "Midday", "Afternoon"]
+  },
+  {
+    "prompt_id": "mindful_001",
+    "title": "5-4-3-2-1 Grounding",
+    "content": "Ground yourself in the present moment. Notice 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste.",
+    "category": "Mindfulness",
+    "duration_minutes": 5,
+    "tone": "Focus-oriented",
+    "applies_to_goals": ["Focus", "Stress"],
+    "time_of_day_suitability": ["Midday", "Afternoon"]
+  },
+  {
+    "prompt_id": "energy_001",
+    "title": "Desk Energy Boost",
+    "content": "Stand up and do 10 gentle squats followed by 10 arm circles. Take 3 deep breaths while reaching your arms overhead. Feel the energy flow through your body.",
+    "category": "Movement snacks",
+    "duration_minutes": 2,
+    "tone": "Energizing", 
+    "applies_to_goals": ["Energy", "Body"],
+    "time_of_day_suitability": ["Morning", "Midday", "Afternoon"]
+  },
+  {
+    "prompt_id": "evening_001",
+    "title": "Gentle Wind-Down Stretch",
+    "content": "Prepare your body for rest. Do gentle neck rolls, shoulder shrugs, and seated spinal twists. End by placing your hands on your heart and taking 5 slow, deep breaths.",
+    "category": "Wind-downs",
+    "duration_minutes": 7,
+    "tone": "Calming",
+    "applies_to_goals": ["Sleep", "Stress"],
+    "time_of_day_suitability": ["Evening", "PM Only"]
+  }
+]
